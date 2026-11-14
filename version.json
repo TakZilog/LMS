@@ -1,0 +1,7 @@
+{
+    "version":  "1.3.75",
+    "build_number":  175,
+    "release_notes":  "Fix ReferenceError in DOM auto-pick + robust Moodle radio button and label click selection.",
+    "gemini_model":  "gemini-3.5-flash-lite",
+    "apk_url":  "https://github.com/TakZilog/LMS/raw/main/AMAES-Moodle-Solver.apk"
+}
