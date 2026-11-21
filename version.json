@@ -1,0 +1,8 @@
+{
+    "version":  "1.3.116",
+    "ext_version":  "1.2.3",
+    "build_number":  216,
+    "release_notes":  "Supercharged re-attempts: thinking model cascade + 503 failover, Moodle course-lesson verbatim lookup for text blanks, crowd wrong merge, top-3 tappable review backups, and PC extension parity.",
+    "gemini_model":  "gemini-3.5-flash-lite",
+    "apk_url":  "https://github.com/TakZilog/LMS/raw/main/AMAES-Moodle-Solver.apk"
+}
