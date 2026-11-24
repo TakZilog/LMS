@@ -1,0 +1,8 @@
+# Strict Release-Only Whitelist: ignore ALL source code, .env, and local files
+*
+
+# Only allow public OTA release artifacts to be pushed to GitHub
+!version.json
+!AMAES-Moodle-Solver.apk
+!README.md
+!.gitignore

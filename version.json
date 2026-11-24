@@ -1,0 +1,8 @@
+{
+    "version": "1.4.17",
+    "ext_version": "1.3.13",
+    "build_number": 237,
+    "release_notes": "Pure-library upgrade (+494 verified answers, punctuation-exact wrong checks, IT6310 Cisco overrides, truncated/typo/paraphrase matching, 0ms elimination) and full multimedia image-choice selection fix (Choice A-D labels, Moodle 4 radio clicker, upscaled icon vision, PC extension parity).",
+    "gemini_model": "gemini-3.5-flash-lite",
+    "apk_url": "https://github.com/TakZilog/LMS/raw/main/AMAES-Moodle-Solver.apk"
+}
